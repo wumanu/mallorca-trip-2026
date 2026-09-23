@@ -2,7 +2,7 @@
 
 [Open the live guide](https://wumanu.github.io/mallorca-trip-2026/)
 
-Interactive map and ranked places: beaches, snorkeling and freediving, wind sports, restaurants, chill bars, nightlife and hotels.
+Interactive map and ranked places: beaches, walkable town beaches, snorkeling and freediving, wind sports, restaurants, chill bars, nightlife and hotels. Town beaches include estimated walks from named local landmarks and Google Maps walking routes.
 
 Download `index.html` and open it in a browser. It is a standalone file with embedded photos, scripts and an offline map. Optional street-map tiles and external links require internet.
 
