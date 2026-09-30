@@ -2,6 +2,8 @@
 
 [Open the live guide](https://wumanu.github.io/mallorca-trip-2026/)
 
+[Open Ahmad’s trip package](https://wumanu.github.io/mallorca-trip-2026/ahmad.html)
+
 Interactive map and ranked places: beaches, walkable town beaches, snorkeling and freediving, wind sports, padel/pickleball, restaurants, chill bars, nightlife, hotels/apartments and towns. The towns category compares 90 places: all 53 municipalities plus 37 coastal towns, districts and villages. Each has a photograph, population with scope/year, waterfront and swimming details, evening atmosphere and an individual ranking explanation. Old towns and their separate ports are distinguished. Small hamlets are not exhaustively listed.
 
 The 34 hotels, aparthotels and Airbnb stays are ranked for the whole trip: immediate surroundings, walkable beaches and evenings, water activities, room setup, privacy and value. Each explains the neighbourhood and the activities reachable from that base. Bahía leads for its Pine Walk setting and flexible hotel rate; Can Jaume is the leading separate-bedroom alternative by Port d’Alcúdia’s harbour area. Airbnb pins indicate approximate areas. Town beaches include estimated walks from named landmarks and Google Maps walking routes.
